@@ -1,6 +1,6 @@
-# SIN LEY — assets
+# BADLANDS — assets
 
-Logo e íconos del server de Unturned **SIN LEY | LATAM PvP**.
+Logo e íconos del server de Unturned **BADLANDS | LATAM PvP**.
 
 - `icon_64.png`: ícono del lobby (64x64)
 - `thumb_32.png`: miniatura de la lista (32x32)
