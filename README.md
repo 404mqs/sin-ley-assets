@@ -1,7 +1,4 @@
-# BADLANDS — assets
+# sin-ley-assets (archivado)
 
-Logo e íconos del server de Unturned **BADLANDS | LATAM PvP**.
-
-- `icon_64.png`: ícono del lobby (64x64)
-- `thumb_32.png`: miniatura de la lista (32x32)
-- `logo_512.png`: logo completo
+BADLANDS se mudó a **https://404mqs.github.io/badlands-assets/** (repo `404mqs/badlands-assets`).
+Acá quedan las imágenes para que no se rompan los mensajes viejos de Discord.
